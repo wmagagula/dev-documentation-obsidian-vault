@@ -4,16 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "1998839c938df07a",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
-            "mode": "source",
-            "source": false
+        "id": "4f6bda8306b2b5c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1998839c938df07a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4aceea7af6651ce2",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.0.0"
+              }
+            }
+          },
+          {
+            "id": "80ee65a22e64ef23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e356f245045dd25b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work Planning/Download fund fact sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1f3d46e5c9e35586",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Work Planning/Download fund fact sheet.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6096f77ee1a134ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Research/Go to sites for research.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -31,7 +96,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -77,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
+                "file": "Research/Go to sites for research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
+                "file": "Research/Go to sites for research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md"
+                "file": "Research/Go to sites for research.md"
               }
             }
           }
@@ -127,17 +194,20 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "1998839c938df07a",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "6096f77ee1a134ac",
   "lastOpenFiles": [
+    "Research/AngularJS/Styling with CSS & SCSS.md",
+    "Work Planning/Download fund fact sheet.md",
+    "Productivity Hacks/Tools when programming.md",
+    "Research/AngularJS/Angular code snippets.md",
+    "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
+    "Work Planning/Meeting with the team - Hawaii planning.md",
     "Research/dotNet and Programming/Stack and Heap Memory.md",
     "Research/dotNet and Programming/WebHosting in .NET.md",
-    "Research/dotNet and Programming/Understanding the CLR and execution of .NET.md",
     "Work Planning/Docfusion - tra.md",
-    "Research/GOF - Design Patterns.md",
-    "Research/Untitled.md",
-    "Research/Learning Pathway.md",
-    "Research/dotNet and Programming/Work Diary - C-sharp Delegates.md",
-    "Research/dotNet and Programming/Logging in .NET.md",
-    "Research/dotNet and Programming/Guarding in .NET.md"
+    "Research/GOF - Design Patterns.md"
   ]
 }
