@@ -1,8 +1,7 @@
 		|| Design Patterns ||
 
 https://www.dofactory.com/net/design-patterns
-- Design patterns are solutions or implementations to mediate software design problems encountered
-often when developing real-world applications
+- Design patterns are solutions or implementations to mediate software design problems encountered often when developing real-world applications
 
 - 23 Gang of Four (GoF) patterns: Creational, Structural and Behavioral
 

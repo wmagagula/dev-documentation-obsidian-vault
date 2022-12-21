@@ -4,3 +4,4 @@
 - https://developer.mozilla.org/
 - https://learn.microsoft.com/
 - https://www.typescripttutorial.net/
+- https://csharp-video-tutorials.blogspot.com/

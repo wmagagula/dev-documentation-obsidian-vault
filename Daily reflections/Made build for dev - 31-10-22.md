@@ -1,0 +1,2 @@
+What I enjoyed about today?
+- Writing this around 10:10 am; just had a call with a collegue and we made a build for our dev environment. Used the Azure devops [Pipelines - Recent (azure.com)](https://dev.azure.com/outsurance/OUTvest/_build) then we found the project we drill in then start the pipeline, then choose the branch we want to point the pipeline build to, then just run the pipeline
