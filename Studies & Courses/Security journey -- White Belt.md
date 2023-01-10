@@ -82,8 +82,8 @@ APT - Advance Persistent Threat
 		- Target specific economical sectors
 		- Utilize bublic and non public malware families
 		- Specific attack vectors (they follow certain patterns that makes it easy to identify them and track down)
-- We need to help to defend against all these threats to our contries and organizations
-
+- We need to help to defend against all these threats to our contries and organizatio
+- 
 ### Data Breaches
 - This is an event where confidential data has potentially been viewed, stolen or used by an individual unauthorized to do so
 - We care because we don't want to see our company being on a page where it has been exploited.
